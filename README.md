@@ -1,5 +1,19 @@
-# Churn-Telco-Customers-Final-Project![Screenshot_4](https://user-images.githubusercontent.com/70976091/153678975-624b6b8d-bb46-40e3-9ecd-48781bcc6afe.png)
-![Screenshot_5](https://user-images.githubusercontent.com/70976091/153678998-12f19099-72c4-4d24-bfa2-abc3d505d206.png)
-![Screenshot_1](https://user-images.githubusercontent.com/70976091/153679007-3be8fa20-32e7-4926-be73-a1ad8e03f734.png)
-![Screenshot_2](https://user-images.githubusercontent.com/70976091/153679044-25bc81c0-1f35-44da-8dd0-1b84470ad33a.png)
-![Screenshot_3](https://user-images.githubusercontent.com/70976091/153679051-4d4d80eb-725c-4127-8a5a-1db0458222fc.png)
+
+# Processes  : 
+### 1-  Data Sources
+    https://www.kaggle.com/yeanzc/telco-customer-churn-ibm-dataset
+### 2- Data Gathering
+### 3- Data Preprocessing 
+### 4- Data Integration [SSIS]
+### 5- Data Analysis & Creating Cubes  [SSAS] 
+   ![image](https://user-images.githubusercontent.com/70976091/153679556-8dc9d871-866f-4f18-896e-6f2905399d7e.png)
+### 6- Paginated Reports [SSRS]
+### 7- Dashboards (Power BI)
+## Dashboards (Power BI)
+![Screenshot_2](https://user-images.githubusercontent.com/70976091/153680609-eb8b0db9-1b30-40f7-a6ce-bf5e5f6b544b.png)
+
+
+![Screenshot_3](https://user-images.githubusercontent.com/70976091/153680969-bffecf59-550a-4d4a-94fe-2682973cdf23.png)
+![Screenshot_4](https://user-images.githubusercontent.com/70976091/153680977-3849ae26-f0a9-4399-b75b-60fb797d56e9.png)
+![Screenshot_5](https://user-images.githubusercontent.com/70976091/153680981-74b376a8-951f-4a73-abb5-0b29bf18f23e.png)
+![Screenshot_1](https://user-images.githubusercontent.com/70976091/153680984-1de8edf6-3f66-4a8c-972e-c733758a73f3.png)
